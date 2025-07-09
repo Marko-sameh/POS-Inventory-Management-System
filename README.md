@@ -2,8 +2,6 @@
 
 A custom-built Point of Sale (POS) and Inventory Management System developed in Java, designed for small to medium-sized businesses. This project combines a modern, responsive desktop interface with powerful backend capabilities for seamless inventory control and sales processing.
 
-## 📽️ Demo Video
-Watch the system in action 👉 [Insert your YouTube or Google Drive link here]
 
 ---
 
